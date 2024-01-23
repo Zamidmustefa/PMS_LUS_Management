@@ -1,0 +1,7 @@
+{
+  "appId": "app.pmslus.pk",
+  "appName": "Pharmacy Management System",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

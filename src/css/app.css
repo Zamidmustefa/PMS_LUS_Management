@@ -1,0 +1,19 @@
+/* app global css */
+
+.q-field--labeled .q-field__native,
+.q-field--labeled .q-field__prefix,
+.q-field--labeled .q-field__suffix {
+    color: white !important;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 !important;
+}
+
+.q-btn .q-icon,
+.q-btn .q-spinner {
+    font-size: 1em !important;
+}

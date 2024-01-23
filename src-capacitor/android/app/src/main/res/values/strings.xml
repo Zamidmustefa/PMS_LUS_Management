@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Pharmacy Management System</string>
+    <string name="title_activity_main">Pharmacy Management System</string>
+    <string name="package_name">app.pmslus.pk</string>
+    <string name="custom_url_scheme">app.pmslus.pk</string>
+</resources>
